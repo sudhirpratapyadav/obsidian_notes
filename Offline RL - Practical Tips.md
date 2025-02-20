@@ -1,4 +1,7 @@
 
+Result depends on 2 things
+- data - more important then training params
+- training params
 ## Data collection
 - Data should be even
 - Some noise - cover state space around the optimal trajectories
