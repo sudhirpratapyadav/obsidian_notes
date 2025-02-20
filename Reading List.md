@@ -1,0 +1,1 @@
+- Enhancing Value Function Estimation through First-Order State-Action Dynamics in Offline Reinforcement Learning
